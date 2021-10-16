@@ -1,0 +1,144 @@
+body {
+  text-align: center;
+  margin: 0 auto 0 auto;
+  font-family: cursive;
+}
+.topcontainer{
+    background-color: #87A8A4;
+}
+.bottom-container{
+  background-color: #1597E5;
+  margin: 40px 0 40px 0;
+  padding-top: 40px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 21px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.midcontainer {
+  width: 200px;
+  height: 200px;
+  position: relative;
+}
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 320%;
+  margin: 50px auto 0 auto;
+  color: #212121;
+}
+h2 {
+  font-size: 250%;
+  font-family: 'Ephesis', cursive;
+}
+
+h3 {
+  font-family: 'Tangerine', cursive;
+  font-size: 3rem;
+  color: #11999E;
+}
+h4{
+  font-family: 'IM Fell English SC', serif;
+  color: black;
+  font-size: 1.5rem;
+}
+.top-cloud {
+  position: relative;
+  left: 450px;
+  top: 10px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+
+
+.pro {
+  color: black;
+  font-weight: bold;
+}
+
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+
+.profileimage {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+programmer {
+  font-weight: bold;
+}
+.computer{
+  border-radius: 55%;
+  float: left;
+  width:15%;
+  height: 15%;
+}
+.computertext{
+  line-height: 2;
+}
+.hellotext{
+  line-height: 2;
+}
+.footballimage{
+  border-radius: 50%;
+  width: 15%;
+  height: 15%;
+  float: right;
+  }
+.footballtext{
+  line-height: 2;
+}
+.mountains{
+  width: 20%;
+  height:20%;
+  border-radius: 60%;
+  float: left;
+}
+.footer-link{
+  color: white;
+  background-color: #1597E5;
+  margin: 40px 40px 10px 40px;
+}
+
+hr{
+  border: dotted 5px;
+  border-bottom: none;
+  color: black;
+  width: 25%;
+  margin: 100px auto 100px auto;
+}
+.codingprofile{
+  color: blue;
+  font-family: 'IM Fell English SC', serif;
+  margin: 20px;
+  width: 30%;
+  height:300px;
+}
+p{
+  padding: 40px;
+}
